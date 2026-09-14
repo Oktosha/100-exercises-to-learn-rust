@@ -23,17 +23,17 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 155
+        length: 157
         placeholder_text: "/* TODO: bring the router helpers, shared-state wrapper, and\
       \ your handlers into scope */"
-      - offset: 157
+      - offset: 159
         length: 557
         placeholder_text: "/* TODO: define the async entry point: build the router, attach\
       \ the shared state, bind a TcpListener, and serve the app */"
   - name: Cargo.toml
     visible: true
     placeholders:
-      - offset: 84
+      - offset: 86
         length: 108
         placeholder_text: "# TODO: add the dependencies you need (axum, serde, tokio,\
       \ ...)"

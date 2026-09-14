@@ -1,7 +1,7 @@
 use axum::routing::{get, post};
 use axum::Router;
 use std::sync::Arc;
-use final_project::{create_ticket, get_ticket, list_tickets, patch_ticket, AppState};
+use final_challenge::{create_ticket, get_ticket, list_tickets, patch_ticket, AppState};
 
 #[tokio::main]
 async fn main() {

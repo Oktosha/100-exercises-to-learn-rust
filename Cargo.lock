@@ -155,7 +155,7 @@ name = "faq_why_not_everything"
 version = "0.1.0"
 
 [[package]]
-name = "final_project"
+name = "final_challenge"
 version = "0.1.0"
 dependencies = [
  "axum",

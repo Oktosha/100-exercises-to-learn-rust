@@ -103,7 +103,7 @@ members = [
     "Futures/AsyncAwarePrimitives/*/",
     "Futures/Cancellation/*/",
     "Futures/Outro/*/",
-    "FinalProject/RestApi/*/",
+    "FinalChallenge/RestApi/*/",
     "GoingFurther/Epilogue/*/",
 ]
 
