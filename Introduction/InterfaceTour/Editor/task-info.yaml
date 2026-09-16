@@ -7,12 +7,12 @@ files:
   - name: editor_dark.png
     visible: false
     is_binary: true
+  - name: editor.png
+    visible: false
+    is_binary: true
   - name: run-program_dark.png
     visible: false
     is_binary: true
   - name: run-program.png
-    visible: false
-    is_binary: true
-  - name: editor.png
     visible: false
     is_binary: true

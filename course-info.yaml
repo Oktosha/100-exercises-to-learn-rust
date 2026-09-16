@@ -18,6 +18,7 @@ content:
   - TicketManagement
   - Threads
   - Futures
+  - FinalChallenge
   - GoingFurther
 additional_files:
   - name: Cargo.toml
